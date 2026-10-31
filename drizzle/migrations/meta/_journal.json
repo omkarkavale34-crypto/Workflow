@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1793001082943,
+      "tag": "0000_create_applications_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1793001124427,
+      "tag": "0001_storage_policies_application_files",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1793235739648,
+      "tag": "0002_email_events_no_duplicate_accepts",
+      "breakpoints": true
+    }
+  ]
+}
